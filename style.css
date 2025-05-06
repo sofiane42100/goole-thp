@@ -130,4 +130,5 @@ body {
 .footer-right {
   display: flex;
   flex-wrap: wrap;
+  padding-right: 25px;
 }
