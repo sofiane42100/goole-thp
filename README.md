@@ -1,41 +1,53 @@
-# Clone de Google – Projet THP
+# Google Clone – THP Project
 
-Ceci est un simple clone de la page d’accueil de Google réalisé en HTML et CSS, dans le cadre de la formation The Hacking Project (THP).
+This is a simple clone of the Google home page made in HTML and CSS, as part of The Hacking Project (THP) training.
 
-## 💻 Fonctionnalités
+## 💻 Features
 
-- Logo Google
-- Liens de navigation (Gmail, Images)
-- Icône des applications Google (9 points)
-- Bouton de connexion
-- Barre de recherche centrée avec :
-  - Icône de recherche
-  - Icône micro
-  - Icône appareil photo
-- Design responsive
-- **Pied de page** avec : Confidentialité, Conditions, Paramètres
+- Google logo
 
-## 🛠️ Technologies utilisées
+- Navigation links (Gmail, Images)
 
-- HTML5  
-- CSS3  
+- Google apps icon (9 points)
+
+- Connection button
+
+- Centered search bar with:
+
+- Search icon
+
+- Micro icon
+
+- Camera icon
+
+- Responsive design
+
+- **Footer** with: Privacy, Conditions, Settings
+
+## 🛠️ Technologies used
+
+- HTML5
+
+- CSS3
+
 - Google Fonts & Material Icons
 
-## 🔧 Comment l’utiliser
+## 🔧 How to use it
 
-1. Cloner le dépôt :
-git clone https://github.com/sofiane42100/goole-thp.git
-2. Ouvrir le dossier dans votre navigateur ou avec VS Code.  
-3. Ouvrir le fichier `index.html` pour voir le résultat.
+1. Clone the deposit:
 
-## 📁 Fichiers
+Git clone https://github.com/sofiane42100/goole-thp.git
 
-- `index.html` — structure HTML principale  
-- `style.css` — styles et mise en page
+2. Open the folder in your browser or with VS Code.
 
+3. Open the file `index.html` to see the result.
 
+## 📁 Files
 
-## 📜 Licence
+- `index.html` — main HTML structure
 
-Ce projet est réalisé uniquement à des fins éducatives et n’est pas affilié à Google.
+- `style.css` — styles and layout
 
+## 📜 License
+
+This project is for educational purposes only and is not affiliated with Google.
