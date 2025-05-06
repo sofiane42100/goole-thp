@@ -93,3 +93,41 @@ body {
   gap: 10px;
 }
 
+.footer {
+  background-color: #f2f2f2;
+  font-size: 14px;
+  color: #70757a;
+  padding: 15px 30px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -1px 5px rgba(0,0,0,0.1);
+}
+
+.footer-location {
+  margin-bottom: 10px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border-top: 1px solid #dadce0;
+  padding-top: 10px;
+}
+
+.footer-links a {
+  color: #70757a;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-left,
+.footer-right {
+  display: flex;
+  flex-wrap: wrap;
+}
